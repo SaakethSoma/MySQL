@@ -1,7 +1,7 @@
 CREATE DATABASE company_practice;
 USE company_practice;
 
-SELECT DATABASE();
+SELECT DATABASE();-----------
 
 CREATE TABLE customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
